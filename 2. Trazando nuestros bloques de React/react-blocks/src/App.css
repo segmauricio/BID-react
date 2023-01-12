@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.app{
+  width: 950px;
+  height: 600px;
+  background-color: silver;
+  margin: 0px auto;
+  padding: 2% 2%;
+  margin-top: 25px;
+}
